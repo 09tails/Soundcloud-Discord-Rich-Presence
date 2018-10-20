@@ -1,0 +1,11 @@
+C:\Users\Annie\Desktop\OGStash\OGStash\obj\Debug\OGStash.csprojAssemblyReference.cache
+C:\Users\Annie\Desktop\OGStash\OGStash\obj\Debug\OGStash.csproj.CoreCompileInputs.cache
+C:\Users\Annie\Desktop\OGStash\OGStash\bin\Debug\OGStash.exe.config
+C:\Users\Annie\Desktop\OGStash\OGStash\bin\Debug\OGStash.exe
+C:\Users\Annie\Desktop\OGStash\OGStash\bin\Debug\OGStash.pdb
+C:\Users\Annie\Desktop\OGStash\OGStash\bin\Debug\Colorful.Console.dll
+C:\Users\Annie\Desktop\OGStash\OGStash\bin\Debug\WebDriver.dll
+C:\Users\Annie\Desktop\OGStash\OGStash\bin\Debug\WebDriver.xml
+C:\Users\Annie\Desktop\OGStash\OGStash\obj\Debug\OGStash.csproj.CopyComplete
+C:\Users\Annie\Desktop\OGStash\OGStash\obj\Debug\OGStash.exe
+C:\Users\Annie\Desktop\OGStash\OGStash\obj\Debug\OGStash.pdb
